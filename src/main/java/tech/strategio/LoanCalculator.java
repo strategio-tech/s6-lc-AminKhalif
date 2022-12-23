@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class LoanCalculator {
 
     /**
-     * TODO: finish out this JavaDoc comment block.
-     * FIXME: WHAT DOES THIS METHOD DO?
+     * Loan Calculator Program.
+     * This method calculates loan amount after 3 month period
      * 
      * @param ???
      * @return ???
